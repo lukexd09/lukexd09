@@ -42,5 +42,5 @@ This GitHub is my hands-on product laboratory. The repositories below show how I
 - Product delivery models that combine strong governance with rapid prototyping
 - Building enough hands-on depth to challenge assumptions and unblock engineering teams
 
-> I am not positioning myself as a full-time software engineer. I am a Technical PM who can understand the system, prototype solutions, make informed trade-offs and help teams deliver with less friction.
+> **My edge is combining Technical PM leadership with hands-on product delivery.** I can understand the system, prototype solutions, make informed trade-offs and help engineering teams deliver with less friction.
 
